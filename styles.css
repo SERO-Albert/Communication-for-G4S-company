@@ -80,3 +80,8 @@ button {
 button:hover {
     background: #0056b3;
 }
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
